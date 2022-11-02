@@ -26,17 +26,17 @@
 //        min = arr[i];
 //    }
 //}
-//Console.WriteLine("ən kiçik element: " + min);
+//Console.WriteLine("en kiçik element: " + min);
 #endregion
 
 #region task2
 
-int[] num = { 25, 11, 7, 75, 5656,5 };
+int[] num = { 25, 11, 7, 75, 5656, -5 };
 int min = num[0];
 int count = 0;
 for (int i = 0; i < num.Length; i++)
 {
-    if (num[i] < 10)
+    if (num[i] < 10 && num[i]>=0)
     {
         min = num[i];
         count++;
