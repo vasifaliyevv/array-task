@@ -26,17 +26,14 @@ var mini = numb[0];
 var count = 0;
 for (let i = 0; i < numb.length; i++)
 {
-   if (numb[i] > min)
+   if (numb[i] > 10)
    {
        mini = numb[i];
+       count++;
    }
 
 }
-while (mini > 1)
-{
-   mini /= 10;
-   count++;
-}
+
 console.log(count);
 
 

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vasif_PC\\Desktop\\array\\arrays\\arrays.csproj": {}
+    "C:\\Users\\Vasif\\Desktop\\task\\array-task\\array\\arrays\\arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vasif_PC\\Desktop\\array\\arrays\\arrays.csproj": {
+    "C:\\Users\\Vasif\\Desktop\\task\\array-task\\array\\arrays\\arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vasif_PC\\Desktop\\array\\arrays\\arrays.csproj",
+        "projectUniqueName": "C:\\Users\\Vasif\\Desktop\\task\\array-task\\array\\arrays\\arrays.csproj",
         "projectName": "arrays",
-        "projectPath": "C:\\Users\\Vasif_PC\\Desktop\\array\\arrays\\arrays.csproj",
-        "packagesPath": "C:\\Users\\Vasif_PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vasif_PC\\Desktop\\array\\arrays\\obj\\",
+        "projectPath": "C:\\Users\\Vasif\\Desktop\\task\\array-task\\array\\arrays\\arrays.csproj",
+        "packagesPath": "C:\\Users\\Vasif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vasif\\Desktop\\task\\array-task\\array\\arrays\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Vasif_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vasif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

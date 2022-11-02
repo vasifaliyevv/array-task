@@ -31,25 +31,23 @@
 
 #region task2
 
-//int[] num ={ 25, 11, 7, 75, 5656 };
-//int min = num[0];
-//int count = 0;
-//for (int i = 0; i < num.Length; i++)
-//{
-//    if (num[i] > min)
-//    {
-//        min = num[i];
-//    }
+int[] num = { 25, 11, 7, 75, 5656,5 };
+int min = num[0];
+int count = 0;
+for (int i = 0; i < num.Length; i++)
+{
+    if (num[i] < 10)
+    {
+        min = num[i];
+        count++;
+    }
 
-//}
-//while (min > 1)
-//{
-//    min /= 10;
-//    count++;
-//}
+}
 
 
-//Console.WriteLine(count);
+
+
+Console.WriteLine(count);
 #endregion
 
 
